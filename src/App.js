@@ -67,8 +67,9 @@ export default function App() {
             <br />
             <br /> Bien, luego de eso escribís a cuánto pensas vender tus
             criptos. Generalmente vas a preferir que este valor sea mayor que el
-            precio de entrada. Luego de eso, vas aver el monto de salida, es
-            decir la guita con la que te vas luego de tu transacción.
+            precio de entrada. Luego de eso, vas a ver el monto de salida, es
+            decir la guita con la que te vas luego de tu transacción. Que puede
+            ser positivo o negativo, según cuán salame sea tu movida.
             <br />
             <br />
             Finalmente, abajo está el balance, que es la diferencia real entre
